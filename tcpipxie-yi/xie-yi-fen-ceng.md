@@ -1,10 +1,10 @@
 # 协议分层
 
-### 1.TCP/IP协议族分层：
+### 1.TCP/IP[协议族](../wang-luo-ming-ci-shi-yi.md/#xieyizu)分层：
 
 一般被认为分为4层，每一层负责不同功能。
 
-| 层级 | 协议 | 功能 |
+| 层级 | [协议](../wang-luo-ming-ci-shi-yi.md/#xieyi)| 功能 |
 | --- | --- | --- |
 | 应用层 | Telnet、Ftp、e-mail |  |
 | 运输层 | TCP、UDP |  |
